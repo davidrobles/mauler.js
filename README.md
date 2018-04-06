@@ -13,7 +13,7 @@ $ npm install mauler
 Games
 -----
 
-- [Tic-Tac-Toe](http://github.com/davidrobles/mauler/blob/master/src/games/tic-tac-toe/tic-tac-toe.js)
+- [Tic-Tac-Toe](http://github.com/davidrobles/mauler/blob/master/src/games/tic-tac-toe.js)
 
 Algorithms
 ----------
